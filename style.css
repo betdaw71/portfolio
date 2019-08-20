@@ -207,6 +207,12 @@ a:active {
   font-family: "Cousine", monospace;
   font-size: 3em;
 }
+.carousel-element a {
+  color: white;
+}
+.carousel-element a:active {
+  color: gray;
+}
 
 .inner {
   margin-top: 100px;

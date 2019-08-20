@@ -219,6 +219,10 @@ body{
 	color:white;
 	font-family: $second-font, monospace;
 	font-size:  3em;
+	a{
+		color :white;
+		&:active{color:gray;}
+	}
 }
 .inner{
 	margin-top: 100px;
