@@ -96,7 +96,7 @@
 						<a href="http://frozen-sea-90733.herokuapp.com"><div class="carousel-element__button">Прейти</div></a>
 					</div>
 					<div class="carousel-element">Лендинг меховой фабрики
-						<a href="http://beksfurs.herokuapp.com"><div class="carousel-element__button" id="link__2">Перейти</div>
+						<a href="http://beksfurs.herokuapp.com"><div class="carousel-element__button" id="link__2">Перейти</div></a>
 					</div>
 					<div class="carousel-element">Интернет магазин
 						<div class="carousel-element__button">Перейти</div>

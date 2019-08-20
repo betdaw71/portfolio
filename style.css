@@ -13,6 +13,9 @@ a {
 a:hover {
   color: gray;
 }
+a:active {
+  color: black;
+}
 
 .carousel a {
   color: white;
