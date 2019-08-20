@@ -5,6 +5,15 @@ body {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+  /* Отменяем подчеркивание у ссылки */
+  color: white;
+}
+a:hover {
+  color: gray;
+}
+
 .page {
   background-color: white;
   overflow-wrap: break-word;
