@@ -43,43 +43,45 @@
 			</div>
 			<div class="about_text">
 				<div class="about_text__item">
-					Lorem ipsum dolor sit amet,
-					consectetueradipiscing elit
-					Aenean commodo ligulaeget dolor.
-					Aenean massa. Cum sociisnatoque
+					Привет, меня зовут Давид. Я
+					полноценный веб-разбработчик.
+					Занимаюсь созданием сайтов с
+					максимальным профессианолизмом и любовью 
 				</div>
 				<div class="about_text__item">
 					<span>
-					Lorem ipsum dolor sit amet,
-					consectetueradipiscing elit
-					Aenean commodo ligulaeget dolor.
-					Aenean massa. Cum sociisnatoque</span>
+					 Иструменты, которыми я владею :
+					 Python (django,flask),JavaScript,
+					 vanilla.js , vue.js , git , PHP,
+					 HTML5 , CSS3 , SASS и т.д 
+					</span>
 				</div>
 				<div class="about_text__item">
-					Lorem ipsum dolor sit amet,
-					consectetueradipiscing elit
-					Aenean commodo ligulaeget dolor.
-					Aenean massa. Cum sociisnatoque
+					Так же я занимаюсь информационной 
+					безопасностью , а именно тестирование
+					сайтов на уязвимости
 				</div>
 			</div>
 			<div class="about_blok">
 				<div class="about_blok__item"><img src="img/1.png" height="80px;">
-					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Web Design</div>
+
+				</div>
 				</div>
 				<div class="about_blok__item"><img src="img/2.png" height="80px;">
-					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Development</div>Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
 				</div>
 				<div class="about_blok__item"><img src="img/3.png" height="80px;">
-					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Inf. Sec</div>Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
 				</div>
 				<div class="about_blok__item"><img src="img/4.jpg" height="80px;">
-					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitenean o ligulaeget dolor.enean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Marketing</div>Lorem ipsum dolor sit amet,consectetueradipiscing elitenean o ligulaeget dolor.enean massa.</div>
 				</div>
 			</div>
 		</div>
 		<div class="container">
-			<div class="container_item">251<div class="container_item__text">Счастивых клиентов</div></div>
-			<div class="container_item">141<div class="container_item__text">Законченных проектов</div></div>
+			<div class="container_item">24<div class="container_item__text">Счастивых клиентов</div></div>
+			<div class="container_item">20<div class="container_item__text">Законченных проектов</div></div>
 			<div class="container_item">7<div class="container_item__text">Новых концептов</div></div>
 			<div class="container_item">1024<div class="container_item__text">Кружек кофе</div></div>
 		</div>
