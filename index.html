@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	  <meta charset="UTF-8">
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Exo+2&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Cousine&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Russo+One&display=swap" rel="stylesheet">
+	<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="owl-carousel/owl.carousel.css"/>
+<script src="owl-carousel/owl.carousel.min.js"></script>
+
+
+</head>
+<body>
+
+	<div class="page">
+		<div class="header">
+			<div class="header__icon">D.</div>
+			<div class="header__menu">
+				<span>Главная</span>
+				<span>Партфолио</span>
+				<span>Обо мне</span>
+				<span>Контакты</span>
+			</div>
+		</div>
+
+		<div class="body">
+			<div class="body__content">Здравствуйте ,я<div class="body__text">Давид Кренович</div></div>
+			<div class="body__img"><img src="img/main.png"></div>
+			<div class="body__content">Професия <div class="body__text">Веб-разработчик</div></div>
+		</div>
+		<div class="about">
+			<div class="about_wrapper">
+				<div class='about_wrapper__item-1'></div>
+				<div class='about_wrapper__item-2'> Обо мне</div>
+				<div class='about_wrapper__item-1'></div>
+			</div>
+			<div class="about_text">
+				<div class="about_text__item">
+					Lorem ipsum dolor sit amet,
+					consectetueradipiscing elit
+					Aenean commodo ligulaeget dolor.
+					Aenean massa. Cum sociisnatoque
+				</div>
+				<div class="about_text__item">
+					<span>
+					Lorem ipsum dolor sit amet,
+					consectetueradipiscing elit
+					Aenean commodo ligulaeget dolor.
+					Aenean massa. Cum sociisnatoque</span>
+				</div>
+				<div class="about_text__item">
+					Lorem ipsum dolor sit amet,
+					consectetueradipiscing elit
+					Aenean commodo ligulaeget dolor.
+					Aenean massa. Cum sociisnatoque
+				</div>
+			</div>
+			<div class="about_blok">
+				<div class="about_blok__item"><img src="img/1.png" height="80px;">
+					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+				</div>
+				<div class="about_blok__item"><img src="img/2.png" height="80px;">
+					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+				</div>
+				<div class="about_blok__item"><img src="img/3.png" height="80px;">
+					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+				</div>
+				<div class="about_blok__item"><img src="img/4.jpg" height="80px;">
+					<div class="about_blok__itext">Lorem ipsum dolor sit amet,consectetueradipiscing elitenean o ligulaeget dolor.enean massa.</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="container_item">251<div class="container_item__text">Счастивых клиентов</div></div>
+			<div class="container_item">141<div class="container_item__text">Законченных проектов</div></div>
+			<div class="container_item">7<div class="container_item__text">Новых концептов</div></div>
+			<div class="container_item">1024<div class="container_item__text">Кружек кофе</div></div>
+		</div>
+	
+		<div class="skils">
+			<div class="skils_wrapper">
+				<div class='skils_wrapper__item-1'></div>
+				<div class='skils_wrapper__item-2'>Портфолио</div>
+				<div class='skils_wrapper__item-1'></div>
+			</div>
+			<div class="inner">
+				<div id="carousel">
+					<div class="carousel-element">Онлайн кинотеатр
+						<div class="carousel-element__button">Прейти</div>
+					</div>
+					<div class="carousel-element">Лендинг меховой фабрики
+						<div class="carousel-element__button">Перейти</div>
+					</div>
+					<div class="carousel-element">Интернет магазин
+						<div class="carousel-element__button">Перейти</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		
+	</div>
+	<footer>
+		<div> Телефон : +7(903) 444 42-70</div>
+		<hr>
+		<div>Почта : babayan.dawid2017@yandex.ru</div>
+
+	</footer>
+<script type="text/javascript">
+	$(document).ready(function(){
+	
+	// Находим блок карусели
+	var carousel = $("#carousel");
+
+	// Запускаем плагин карусели
+
+	carousel.owlCarousel({
+	singleItem: true, // Показывать только 1 блок на всю ширину
+});
+});
+</script>
+</body>
+</html>
