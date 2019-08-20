@@ -23,10 +23,10 @@
 		<div class="header">
 			<div class="header__icon">D.</div>
 			<div class="header__menu">
-				<span>Главная</span>
-				<span>Партфолио</span>
-				<span>Обо мне</span>
-				<span>Контакты</span>
+				<a href="#"><span>Главная</span></a>
+				<a href="#about"><span>Обо мне</span>
+				<a href="#portfolio"><span>Партфолио</span></a>
+				<a href="#contacti"><span>Контакты</span></a>
 			</div>
 		</div>
 
@@ -38,7 +38,7 @@
 		<div class="about">
 			<div class="about_wrapper">
 				<div class='about_wrapper__item-1'></div>
-				<div class='about_wrapper__item-2'> Обо мне</div>
+				<div class='about_wrapper__item-2' id="about"> Обо мне</div>
 				<div class='about_wrapper__item-1'></div>
 			</div>
 			<div class="about_text">
@@ -87,7 +87,7 @@
 		<div class="skils">
 			<div class="skils_wrapper">
 				<div class='skils_wrapper__item-1'></div>
-				<div class='skils_wrapper__item-2'>Портфолио</div>
+				<div class='skils_wrapper__item-2' id='portfolio'>Портфолио</div>
 				<div class='skils_wrapper__item-1'></div>
 			</div>
 			<div class="inner">
@@ -108,7 +108,7 @@
 
 		
 	</div>
-	<footer>
+	<footer id='contacti'>
 <!-- 		<div> Телефон : +7(903) 444 42-70</div>
 		<hr>
 		<div>Почта : babayan.dawid2017@yandex.ru</div> -->
