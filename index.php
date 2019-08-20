@@ -65,17 +65,17 @@
 			<div class="about_blok">
 				<div class="about_blok__item"><img src="img/1.png" height="80px;">
 					<div class="about_blok__itext"><div style="font-size:1.5em">Web Design</div>
-
+					С большой ответственностью отношусь к созданию веб дизайна .
 				</div>
 				</div>
 				<div class="about_blok__item"><img src="img/2.png" height="80px;">
-					<div class="about_blok__itext"><div style="font-size:1.5em">Development</div>Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Development</div>Затем идет процесс верстания сайта .</div>
 				</div>
 				<div class="about_blok__item"><img src="img/3.png" height="80px;">
-					<div class="about_blok__itext"><div style="font-size:1.5em">Inf. Sec</div>Lorem ipsum dolor sit amet,consectetueradipiscing elitAenean commodo ligulaeget dolor.Aenean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Inf. Sec</div>После написания кода проверяю его на уязвимости .</div>
 				</div>
 				<div class="about_blok__item"><img src="img/4.jpg" height="80px;">
-					<div class="about_blok__itext"><div style="font-size:1.5em">Marketing</div>Lorem ipsum dolor sit amet,consectetueradipiscing elitenean o ligulaeget dolor.enean massa.</div>
+					<div class="about_blok__itext"><div style="font-size:1.5em">Marketing</div>После того как я убедился в исправности проекта запускаю его в продакшн</div>
 				</div>
 			</div>
 		</div>
