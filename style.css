@@ -50,6 +50,20 @@ a:active {
   display: flex;
   justify-content: space-between;
 }
+.header a {
+  text-decoration: none;
+  /* Отменяем подчеркивание у ссылки */
+  color: black;
+}
+.header a:hover {
+  color: gray;
+}
+.header a:active {
+  color: black;
+}
+.header .carousel a {
+  color: white;
+}
 .header .header__icon {
   font-family: "Russo One", sans-serif;
   font-size: 3em;

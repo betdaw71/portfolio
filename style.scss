@@ -53,6 +53,21 @@ body{
 
 
 .header{
+	   a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+   	color: black;
+   	&:hover{
+   		color:gray;
+   	}
+   	&:active{
+   		color:black;
+   	}
+   } 
+   .carousel{
+   	a{
+   		color:white;
+   	}
+   }
 	display: flex;
 	justify-content : space-between;
 	.header__icon{
