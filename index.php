@@ -23,10 +23,10 @@
 		<div class="header">
 			<div class="header__icon">D.</div>
 			<div class="header__menu">
-				<a href="#" style="text-decoration: none;color:black;"><span>Главная</span></a>
-				<a href="#about"style="text-decoration: none;color:black;"><span>Обо мне</span>
-				<a href="#portfolio"style="text-decoration: none;color:black;"><span>Партфолио</span></a>
-				<a href="#contacti"style="text-decoration: none;color:black;"><span>Контакты</span></a>
+				<span><a href="#" style="text-decoration: none;color:black;">Главная</a></span>
+				<span><a href="#about"style="text-decoration: none;color:black;">Обо мне</a></span>
+				<span><a href="#portfolio"style="text-decoration: none;color:black;">Партфолио</a></span>
+				<span><a href="#contacti"style="text-decoration: none;color:black;">Контакты</a></span>
 			</div>
 		</div>
 
