@@ -109,9 +109,9 @@
 		
 	</div>
 	<footer>
-		<div> Телефон : +7(903) 444 42-70</div>
+<!-- 		<div> Телефон : +7(903) 444 42-70</div>
 		<hr>
-		<div>Почта : babayan.dawid2017@yandex.ru</div>
+		<div>Почта : babayan.dawid2017@yandex.ru</div> -->
 
 	</footer>
 <script type="text/javascript">
