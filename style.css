@@ -8,10 +8,14 @@ body {
 a {
   text-decoration: none;
   /* Отменяем подчеркивание у ссылки */
-  color: white;
+  color: black;
 }
 a:hover {
   color: gray;
+}
+
+.carousel a {
+  color: white;
 }
 
 .page {

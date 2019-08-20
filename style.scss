@@ -7,11 +7,16 @@ body{
 }
    a { 
     text-decoration: none; /* Отменяем подчеркивание у ссылки */
-   	color: white;
+   	color: black;
    	&:hover{
    		color:gray;
    	}
    } 
+   .carousel{
+   	a{
+   		color:white;
+   	}
+   }
 
 .page{
 	background-color:white;
